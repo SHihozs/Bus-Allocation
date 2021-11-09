@@ -1,0 +1,10 @@
+1, River Cruise, 30, C
+2, Summer Vacation, 20, C
+3, Temple Highlights, 10, A
+4, Unity Tour, 15, A
+5, Visit Bangkok, 35, C
+6, Wow Holidays, 25, C
+7, Let's Trip, 45, A
+8, Choke Chai Trip, 65, C
+9, Fungi Tour, 5, A
+10, Dek Doi Tour, 10, A

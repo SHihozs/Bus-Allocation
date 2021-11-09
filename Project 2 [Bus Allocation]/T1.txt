@@ -1,0 +1,10 @@
+1, A Good Day Tour, 20, A
+2, Backpackers, 10, A
+3, Cool Trip, 60, C
+4, Discover Bangkok, 25, C
+5, ETC Travel, 45, C
+6, Food and Fun, 30, A
+7, Penguin Tour, 35, C
+8, P&P Trip, 20, A
+9, League of Traveller, 30, C
+10, Camprint, 10, C
