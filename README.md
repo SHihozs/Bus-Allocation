@@ -2,6 +2,7 @@
 
 ## Authors
 - [Devicez](https://github.com/Devicez)
+- [SHihozs](https://github.com/SHihozs)
 
 ## FILE IN /SRC FOLDER
 - Simulation.java
