@@ -20,7 +20,7 @@
 # 1. Create file T1.txt, T2.txt, T3.txt. 
     1.1 Each file contains 10 transactions to be processed by each TicketCounter thread in (4). 
     1.2 Each line consists of transaction ID, name of a tour group, number of passengers, and destination
-(A = airport bound, C = city bound).
+    (A = airport bound, C = city bound).
 
 # 2. Implement class BusLine with at least the following members
     2.1 Variables destination (airport or city) and maximum seats (all buses have the same number of max seats)
@@ -31,10 +31,10 @@
 
 # 3. (Optional)
     3.1 You may also implement class Bus (each BusLine has a number of Buses) and class Group (each
-Bus accommodates a number of tour groups)
+    Bus accommodates a number of tour groups)
 
 # 4. Implement class TicketCounter that extends Thread or implements Runnable. 
-    4.1 Variable BusLines: there will be 2 BusLines in the program, airport-bound, and city-bound. BusLine objects may be put in an array or ArrayList. All threads must work on the same copy of BusLines
+    4.1 Variable BusLines: there will be 2 BusLines in the program, airport-bound, and city-bound. BusLine objects may be put in an array or ArrayList. All threads must work on    the same copy of BusLines
     4.2 In this project, there will be 3 TicketCounter threads. Each thread processes transactions in each file in (1). To process each transaction:
        a. Check the destination and call method allocateBus of the correct BusLine
        b. Print thread’s activities with at least the following information: thread’s name, transaction ID, name of a tour group, BusLine, and Bus number, 
